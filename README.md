@@ -1,4 +1,5 @@
 <h2><a href='yandex.ru'>Ссылка на сайт с проектом (версия на React)</a></h2
+<hr/>
 
 
 <blockquote>
