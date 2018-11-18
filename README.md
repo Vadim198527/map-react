@@ -1,4 +1,4 @@
-<h2><a href='yandex.ru'>Ссылка на сайт с проектом</a></h2
+<h2><a href='yandex.ru'>Ссылка на сайт с проектом (версия на React)</a></h2
 
 
 <blockquote>
